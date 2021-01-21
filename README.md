@@ -9,7 +9,7 @@ This app was created according to the "Android Pre-work Project" guidelines from
 
 (NOTE: Seeing that it could be boring for the users to interact with buttons that stop working after the first click, I programmed the buttons so that they'll continue working every time the user clicks on them!)
 
-<img src="https://media.giphy.com/media/w2KGS3Wa6lEFJxnOAS/giphy.gif" width=200><br>
+<img src="https://github.com/ACMiaJung/Hello-World-From-Mia/blob/main/app_demo.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
